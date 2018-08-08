@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 6ba57b57640fc3d4286f5634cd5b145d
+timeCreated: 1507731032
+licenseType: Pro
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: 8_bit_1_6
+  fontNames:
+  - 8_bit_1_6
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
