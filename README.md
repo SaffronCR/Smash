@@ -1,5 +1,6 @@
 # Smash
-Simple example about how to create the basis of a fighting online game in Unity (for mobile).
+
+Simple example about how to create an online fighting game (dealing with mobile input/latency).
 
 It uses Unity 2018 and Photon PUN (free version) for multiplayer.
 
